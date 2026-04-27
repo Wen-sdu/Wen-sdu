@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wen-sdu
 - 👀 I’m interested in sports
 - 🌱 I’m currently learning in sdu
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DCMG
 - 📫 How to reach me ...
 
 <!---
